@@ -1,6 +1,6 @@
 # please change the path to your own directory and file
 
-srt_need_to_transcript = 'E:/作业/570/p2-group-1/captions.srt'
+srt_need_to_transcript = './captions.srt'
 transcript_file = './transcript.csv'
 
 # code operation
